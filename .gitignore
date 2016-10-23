@@ -1,2 +1,5 @@
 .jotc
 .env
+
+__pycache__/
+*.py[cod]
